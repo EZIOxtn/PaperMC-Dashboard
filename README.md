@@ -174,14 +174,6 @@ The main configuration is stored in `server/config.json`:
 
 ## 🔧 API Reference
 
-### Authentication Endpoints
-
-```http
-POST /api/auth/login
-POST /api/auth/logout
-GET  /api/auth/status
-```
-
 ### Server Management
 
 ```http
@@ -234,6 +226,21 @@ If you encounter any issues or have questions:
 - [ ] **Cluster Management**: Support for server clusters and load balancing
 
 ---
+## Screenshots
+
+<img width="1906" height="898" alt="Screenshot 2025-11-30 202043" src="https://github.com/user-attachments/assets/43d0271c-a04f-4214-9dfb-b5ed716fb8b6" />
+<img width="1601" height="893" alt="Screenshot 2025-11-30 202028" src="https://github.com/user-attachments/assets/29baaf1f-f688-482c-9675-411ab1cbe81a" />
+<img width="1895" height="906" alt="Screenshot 2025-11-30 202009" src="https://github.com/user-attachments/assets/493ce95c-3004-4d8c-8477-fd196cb0d381" />
+<img width="1919" height="885" alt="Screenshot 2025-11-30 201942" src="https://github.com/user-attachments/assets/595be6c9-467f-4e7c-98cf-abce229752f1" />
+<img width="1919" height="935" alt="Screenshot 2025-11-30 201834" src="https://github.com/user-attachments/assets/9db8cc97-d16c-421a-a6e0-d1ea2fd3f238" />
+<img width="857" height="598" alt="Screenshot 2025-11-30 202142" src="https://github.com/user-attachments/assets/f7003d63-abb8-49dd-a1e7-d82af0740765" />
+<img width="1894" height="908" alt="Screenshot 2025-11-30 202127" src="https://github.com/user-attachments/assets/df3380d7-dab6-47f4-85e1-7ba9ca487ff2" />
+<img width="1919" height="877" alt="Screenshot 2025-11-30 202116" src="https://github.com/user-attachments/assets/9b81bf2b-5284-43bc-b7e7-a2b6f87b8983" />
+<img width="1107" height="781" alt="Screenshot 2025-11-30 202109" src="https://github.com/user-attachments/assets/ed094e28-3da0-49ed-aad9-e8958c3b66c5" />
+<img width="1551" height="819" alt="Screenshot 2025-11-30 202100" src="https://github.com/user-attachments/assets/ba97c063-18b0-4c97-aaa3-6dd74681c7cb" />
+<img width="1583" height="779" alt="Screenshot 2025-11-30 202048" src="https://github.com/user-attachments/assets/ee45abe0-d3ac-4ec4-8c8c-d01969c2b4f7" />
+
+
 
 **Made with ❤️ for the Minecraft Community**
 
