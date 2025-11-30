@@ -1,0 +1,18 @@
+{
+   
+    "defJava": "java",
+    "defjavaArgs": [
+      "-Xmx2G",
+      "-Xms1G",
+      "-jar",
+      "jarPath",  
+      "--nogui"],
+    "serverPath": "paper-server",
+    "serverJar": "./paper-1.21.4-232.jar"
+
+    
+    
+
+
+
+}

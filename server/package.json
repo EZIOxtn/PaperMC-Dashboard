@@ -1,0 +1,17 @@
+{
+  "name": "papermc-dashboard-server",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Backend server for PaperMC Dashboard (Python Flask version)",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "extract-zip": "^2.0.1",
+    "ws": "^8.18.3"
+  }
+}
