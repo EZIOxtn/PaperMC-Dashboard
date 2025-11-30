@@ -7,6 +7,14 @@
 ![Node.js](https://img.shields.io/badge/Node.js-18-green?style=for-the-badge&logo=nodedotjs)
 
 A modern, feature-rich dashboard for managing PaperMC Minecraft servers with real-time monitoring, player management, and comprehensive server administration capabilities.
+<p align="center">
+  <img 
+    src="https://github.com/user-attachments/assets/49ceb62d-68a7-4ae2-93e1-a7a654913dde"
+    width="433"
+    height="433"
+    alt="Dashboard Preview"
+  />
+</p>
 
 ## 🚀 Features
 
