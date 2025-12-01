@@ -66,10 +66,10 @@ export default function Sidebar({ selected, onSelect }: SidebarProps) {
           fontFamily: "monospace",
         }}
       >
-        <div style={{ marginBottom: 6 }}>Made with ❤️ by MyName</div>
+        <div style={{ marginBottom: 6 }}>Made with ❤️ by EZIOxtn</div>
         <div style={{ display: "flex", justifyContent: "center", gap: 10 }}>
           <a
-            href="https://github.com/MyUsername"
+            href="https://github.com/EZIOxtn"
             target="_blank"
             rel="noopener noreferrer"
             style={{ color: "#0f0", transition: "0.2s" }}
@@ -79,7 +79,7 @@ export default function Sidebar({ selected, onSelect }: SidebarProps) {
             <FiGithub size={16} />
           </a>
           <a
-            href="https://twitter.com/MyUsername"
+          //  href="https://twitter.com/MyUsername"
             target="_blank"
             rel="noopener noreferrer"
             style={{ color: "#0f0", transition: "0.2s" }}
@@ -89,7 +89,7 @@ export default function Sidebar({ selected, onSelect }: SidebarProps) {
             <FiTwitter size={16} />
           </a>
           <a
-            href="https://mywebsite.com"
+           // href="https://mywebsite.com"
             target="_blank"
             rel="noopener noreferrer"
             style={{ color: "#0f0", transition: "0.2s" }}
